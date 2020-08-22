@@ -1,0 +1,3 @@
+location: "sample-app/sample-app.yml"
+foo:
+  bar: 1
